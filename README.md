@@ -1,3 +1,4 @@
+**CHAQUE QUESTION EST RECRITE SUR LE FICHIER DE CODE AVEC SA REPONSE**
 CONTEXTE :
 Nous allons analyser les données de Airbnb à Seattle.
 DONNÉES :
